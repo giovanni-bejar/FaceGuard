@@ -1,4 +1,4 @@
-# FaceGuard :closed_lock_with_key: :face:
+# FaceGuard :closed_lock_with_key:
 
 Welcome to **FaceGuard**! This project is a demo application showcasing the potential of integrating facial recognition into security solutions. Using machine learning and computer vision, it lays down the foundation for a larger, more optimized system.
 
